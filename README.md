@@ -32,3 +32,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumitra945&show_icons=true&locale=en&layout=compact" alt="soumitra945" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumitra945&" alt="soumitra945" /></p>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ebaiz7dsocjwvi5msjmesxmp6q&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ebaiz7dsocjwvi5msjmesxmp6q&redirect=true)
